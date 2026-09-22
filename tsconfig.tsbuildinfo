@@ -1,0 +1,1 @@
+{"root":["./src/App.tsx","./src/main.tsx","./src/state.ts","./src/braille/anchors.ts","./src/braille/rules.ts","./src/braille/sample.test.ts","./src/braille/sample.ts","./src/braille/transcribe.test.ts","./src/braille/transcribe.ts","./src/components/BraillePane.tsx","./src/components/RulesModal.tsx","./vite.config.ts"],"version":"5.9.3"}
